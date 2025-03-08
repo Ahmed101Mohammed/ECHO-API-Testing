@@ -1,2 +1,2 @@
 [phases.setup]
-nixPkgs = ["python311", "pkg-config", "libglvnd", "ffmpeg", "libjpeg", "libpng", "glibc"]
+nixPkgs = ["python311", "pkg-config", "libglvnd", "mesa", "ffmpeg", "libjpeg", "libpng", "glibc"]
