@@ -7,3 +7,4 @@ gtts
 scikit-learn
 python-multipart
 starlette
+gunicorn
