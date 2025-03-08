@@ -1,9 +1,7 @@
 fastapi
 uvicorn
-opencv-python
+opencv-python-headless
 numpy
 mediapipe
 gtts
-scikit-learn
-python-multipart
-starlette
+pickle5
